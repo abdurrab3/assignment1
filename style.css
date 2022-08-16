@@ -240,7 +240,7 @@ body {
 
 .sec-e img {
     height: 70%;
-    margin-top: 8%;
+    margin-top: 6%;
     margin-left: 10%;
     border-radius: 10px;
 }
@@ -259,6 +259,7 @@ body {
 }
 
 .sec-et p {
+    margin-top: -1%;
     margin-left: 45%;
     padding-right: 100px;
 }
@@ -291,7 +292,6 @@ body {
     border: none;
     background-color: brown;
     padding: 5px 10px;
-    : 0;
     font-weight: 600;
     color: azure;
 }
