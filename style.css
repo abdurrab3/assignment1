@@ -1,0 +1,317 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.sec-a {
+    background-image: url(doctor-holding-pills-white-background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+
+}
+
+.sec-a h1 {
+    text-align: center;
+    margin-top: 0;
+    padding-top: 200px;
+    color: rgb(17, 247, 17);
+    font-size: 60px;
+}
+
+.sec-a p {
+    text-align: center;
+    margin-right: 13%;
+    margin-left: 13%;
+    color: rgb(32, 32, 23);
+    margin-bottom: 3%;
+}
+
+.sec-a a {
+    text-decoration: none;
+    margin-left: 42%;
+    margin-top: 60%;
+    background-color: rgb(250, 188, 16);
+    padding: 15px 30px;
+    border-radius: 20px;
+    color: purple;
+    font-size: 25px;
+}
+
+.sec-b {
+    background-color: rgb(243, 222, 222);
+    height: 100vh;
+    width: 100vw;
+}
+
+.sec-b h1 {
+    color: rgb(0, 0, 0);
+    padding-top: 90px;
+    text-align: center;
+}
+
+.sec-b p {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.taka {
+    display: flex;
+    margin-left: 250px;
+}
+
+.taka h1 {
+    display: flex;
+    margin-left: 20px;
+    padding: 30px;
+    background-color: rgba(129, 196, 173, 0.438);
+    border-radius: 10px;
+}
+
+#selected {
+    color: rgb(0, 0, 0);
+    background-color: rgb(162, 255, 201);
+    border-color: rgb(23, 245, 123);
+    border-style: solid;
+}
+
+#inpt {
+    margin: 20px;
+    text-align: center;
+    margin-left: 35%;
+    margin-right: 30%;
+    text-decoration: none;
+    border: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-color: rgb(255, 250, 243);
+}
+
+.sec-b button {
+    margin-left: 45%;
+    margin-top: -2%;
+    padding: 15px 40px;
+    color: rgb(241, 12, 165);
+    background-color: gold;
+    border: 0;
+    border-radius: 10px;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.sec-c-head {
+    text-align: center;
+}
+
+.sec-c-head h1 {
+    font-size: 40px;
+}
+
+.sec-c-head p {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 2%;
+}
+
+#sec-c {
+    display: flex;
+}
+
+.Medicine {
+    background-color: bisque;
+    margin-right: 5px;
+}
+
+.Medicine p {
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.Medicine img {
+    margin-top: 50px;
+    padding-right: 55%;
+    height: 15vh;
+}
+
+.Medicine h2 {
+    margin-left: -26%;
+    font-size: 25px;
+}
+
+.Emergency-Doctor {
+    background-color: rgb(207, 197, 152);
+    margin-left: 5px;
+}
+
+.Emergency-Doctor h2 {
+    margin-left: -5%;
+    font-size: 25px;
+}
+
+.Emergency-Doctor img {
+    margin-top: 50px;
+    padding-right: 55%;
+    height: 15vh;
+}
+
+.Emergency-Doctor p {
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.Surokkha {
+    background-color: rgb(189, 182, 168);
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-bottom: 40px;
+}
+
+.Surokkha p {
+    text-align: justify;
+    margin-left: 8%;
+    margin-right: 10%;
+}
+
+.Surokkha img {
+    margin-top: 50px;
+    padding-right: 55%;
+    height: 15vh;
+}
+
+.Surokkha h2 {
+    margin-left: -45%;
+    font-size: 25px;
+}
+
+.sec-d {
+    display: flex;
+    width: 50%;
+}
+
+.sec-d img {
+    display: inline-block;
+    height: 70vh;
+    width: 80%;
+    margin-left: 720px;
+    margin-top: -60%;
+    margin-right: 5%;
+    border-radius: 10px;
+}
+
+.sec-d-text {
+    margin-top: 10%;
+    margin-bottom: 20%;
+}
+
+.sec-d-text h2 {
+    font-size: 50px;
+    margin-left: 5%;
+    color: rgb(255, 0, 98);
+}
+
+.sec-d-text p {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.sec-d-text a {
+    text-decoration: none;
+    background-color: coral;
+    padding: 15px 40px;
+    border-radius: 5px;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+    margin-left: 30%;
+}
+
+.sec-ee {
+    background-color: aquamarine;
+    height: 100vh;
+    width: 100vw;
+}
+
+.flec-e {
+    display: flex;
+    width: 50%;
+}
+
+.sec-e img {
+    height: 70%;
+    margin-top: 8%;
+    margin-left: 10%;
+    border-radius: 10px;
+}
+
+.sec-et h2 {
+    margin-left: 45%;
+    margin-top: -30%;
+}
+
+.sec-et a {
+    text-decoration: none;
+    margin-left: 45%;
+    background-color: orange;
+    padding: 20px 45px;
+    border-radius: 5px;
+}
+
+.sec-et p {
+    margin-left: 45%;
+    padding-right: 100px;
+}
+
+.last-part {
+    text-align: center;
+    margin-bottom: 15%;
+}
+
+.last-part h2 {
+    font-weight: 700;
+    margin-top: 15%;
+}
+
+.last-part p {
+    margin: 3% 10%;
+}
+
+.last-part input {
+    text-decoration: none;
+    border: none;
+    background-color: rgb(218, 202, 181);
+    padding: 5px 15px;
+    margin: 0;
+}
+
+.last-part button {
+    display: inline-block;
+    text-decoration: none;
+    border: none;
+    background-color: brown;
+    padding: 5px 10px;
+    : 0;
+    font-weight: 600;
+    color: azure;
+}
+
+.in-bu {
+    background-color: rgb(255, 226, 188);
+    padding: 40px 60px;
+    border-radius: 5px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(10, 105, 105);
+    color: rgb(255, 131, 245);
+    padding: 1vh 1vw;
+}
+
+footer h4 {
+    font-weight: 500;
+    color: rgb(255, 131, 245);
+}
